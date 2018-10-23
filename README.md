@@ -1,1 +1,1 @@
-# the-profolio
+one of the things that i'm proud of and wanna show is when we programmed the robot and make it go in a square using intellji and the terminal.. and when i watched videos from lynda it was one of the amazing things to do and i enjoyed playing with lightbot a lot acutally. 
